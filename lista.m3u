@@ -529,12 +529,12 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -637,8 +637,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -691,8 +689,6 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -727,6 +723,8 @@ https://thedaddy.click/stream/stream-861.php
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV",SKY CINEMA COLLECTION (D)
 https://thedaddy.click/stream/stream-859.php
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
+https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
@@ -883,8 +881,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -932,7 +928,7 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="motogpczechgrandprixfreepractice2" tvg-name="Motorsport | MotoGP : Czech Grand Prix Free Practice 2 (10:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Free Practice 2 (10:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2czechgrandprixfreepractice2" tvg-name="Motorsport | Moto2 : Czech Grand Prix Free Practice 2 (10:45)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Free Practice 2 (10:45)
+#EXTINF:-1 tvg-id="moto2czechgrandprixfreepractice2" tvg-name="Motorsport | Moto2 : Czech Grand Prix Free Practice 2 (10:45)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Free Practice 2 (10:45)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto3czechgrandprixqualifying" tvg-name="Motorsport | Moto3 : Czech Grand Prix Qualifying (12:50)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Czech Grand Prix Qualifying (12:50)
@@ -950,7 +946,7 @@ https://thedaddy.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="primierodolomitimarathon2025sanmartinodicastrozzaprimiero" tvg-name="Athletics | Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero (21:15)" tvg-logo="https://primierodolomitimarathon.it/wp-content/uploads/sites/8/2020/01/CIAORUNNER_CMYK_2019_2-e1716109498200.png" group-title="Eventi Live",Athletics | Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero (21:15)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="iaafdiamondleaguelondonathleticsmeetlondonstadium" tvg-name="Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/iaaf-diamond-league-logo.png" group-title="Eventi Live",Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)
+#EXTINF:-1 tvg-id="iaafdiamondleaguelondonathleticsmeetlondonstadium" tvg-name="Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)" tvg-logo="https://content.sportslogos.net/logos/83/2506/full/5932_london_majors-stadium-0.png" group-title="Eventi Live",Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)
 https://thedaddy.click/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="worldcupmadridmensandwomensleadfinal" tvg-name="Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)" tvg-logo="https://png.pngtree.com/png-vector/20231210/ourmid/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_11196996.png" group-title="Eventi Live",Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)
